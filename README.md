@@ -1,16 +1,32 @@
-## Hi there 👋
+```text
+Last login: Sat Apr 19 22:42:01 on tty1
 
-<!--
-**atp-gh/atp-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ █████╗ ████████╗██████╗ 
+██╔══██╗╚══██╔══╝██╔══██╗
+███████║   ██║   ██████╔╝
+██╔══██║   ██║   ██╔═══╝ 
+██║  ██║   ██║   ██║     
+╚═╝  ╚═╝   ╚═╝   ╚═╝
+Welcome to atp!
 
-Here are some ideas to get you started:
+atp@nixos ~ % whoami
+atp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+atp@nixos ~ % uname -srmo
+Linux 6.x x86_64 GNU/Linux
+
+atp@nixos ~ % cat /etc/motd
+Linux & NixOS enthusiast
+Self-hosting interesting services
+
+atp@nixos ~ % cat philosophy.txt
+Grounded in needs, driven by curiosity.
+
+atp@nixos ~ % ls ~/services
+- personal blog
+- homelab
+- random experiments
+
+atp@nixos ~ % uptime
+up for learning, breaking, and rebuilding
+```
