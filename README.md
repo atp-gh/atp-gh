@@ -13,7 +13,7 @@ atp@nixos ~ % whoami
 atp
 
 atp@nixos ~ % uname -srmo
-Linux 6.x x86_64 GNU/Linux
+Linux 7.x x86_64 GNU/Linux
 
 atp@nixos ~ % cat /etc/motd
 Linux & NixOS enthusiast
